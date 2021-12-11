@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kamrul Hassan Sagor</h1>
+<h2 align="center">Hi 👋 </h2>
+
+<h1 align="center">I'm Kamrul Hassan Sagor </h1>
+
 <h3 align="center">Love to code</h3>
 
 <p align="left"> <img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="sagor31h2" /> </p>
